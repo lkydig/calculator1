@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lkydig.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-04-21T10:21:43" hostname="dockeruser-VirtualBox" time="0.006">
+  <properties/>
+  <testcase name="testSum" classname="com.lkydig.calculator.CalculatorTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

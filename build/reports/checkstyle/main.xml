@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.5.1">
+<file name="/home/dockeruser/Calculator/calculator1/src/main/java/com/lkydig/calculator/Calculator.java">
+</file>
+<file name="/home/dockeruser/Calculator/calculator1/src/main/java/com/lkydig/calculator/CalculatorApplication.java">
+</file>
+<file name="/home/dockeruser/Calculator/calculator1/src/main/java/com/lkydig/calculator/CalculatorController.java">
+</file>
+</checkstyle>

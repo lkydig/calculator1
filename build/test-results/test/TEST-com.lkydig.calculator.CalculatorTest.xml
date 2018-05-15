@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.lkydig.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-04-21T10:42:10" hostname="dockeruser-VirtualBox" time="0.003">
+<testsuite name="com.lkydig.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-05-08T07:12:10" hostname="msh-OptiPlex-3050" time="0.001">
   <properties/>
-  <testcase name="testSum" classname="com.lkydig.calculator.CalculatorTest" time="0.003"/>
+  <testcase name="testSum" classname="com.lkydig.calculator.CalculatorTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
